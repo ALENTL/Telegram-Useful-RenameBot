@@ -36,7 +36,7 @@ python bot.py
 ## Credits, and Thanks to
 
 * [@ALEN_TL](https://telegram.dog/ALEN_TL) for his [Coding Skills](https://telegram.dog/AnyDLBot)
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/feedback_alen)
+- For FeedBack and Suggestions, please feel free to say in [Feedback Group](https://telegram.dog/feedback_alen)
 
 #### LICENSE
 - GPLv3
