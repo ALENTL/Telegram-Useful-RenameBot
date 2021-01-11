@@ -31,7 +31,7 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/feedback_alen)
+* [Feedback Groups Of ALEN](https://telegram.dog/feedback_alen)
 
 ## Credits, and Thanks to
 
